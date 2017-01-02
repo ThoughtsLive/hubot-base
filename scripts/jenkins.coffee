@@ -9,6 +9,7 @@
 #   HUBOT_JENKINS_AUTH
 #
 #   Auth should be in the "user:password" format.
+#   password can be a token (which can be obtainined from the jenkins user configuration)
 #
 # Commands:
 #   hubot jenkins abort <jobPath> - aborts the given job that is paused, waiting on user input
